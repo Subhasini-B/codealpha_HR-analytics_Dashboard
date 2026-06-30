@@ -14,6 +14,7 @@ The Human Resources Analytics Dashboard is an interactive Power BI dashboard tha
 
  ## Dataset Used
 The dataset was created in Microsoft Excel and contains employee information.
+<a href="https://github.com/Subhasini-B/codealpha_HR-analytics_Dashboard/blob/main/HR_data.xlsx"HR Dataset</a>
 
 
 ## Business Questions (KPIs)
@@ -54,13 +55,22 @@ The dataset was created in Microsoft Excel and contains employee information.
 
 
 ## Dashboard Features
-KPI Cards (Employees, Attrition Rate, Average Salary, Average Age, Satisfaction, Performance)
-Employees by Department (Bar Chart)
-Gender Distribution (Donut Chart)
-Attrition by Department (Bar Chart)
-Recruitment Source (Donut Chart)
-Performance by Department (Line Chart)
-Satisfaction Score Distribution (Column Chart)
-Employee Age Group Analysis (Column Chart)
-Key Insights Panel
-Department, Gender, and Year Slicers
+1.KPI Cards (Employees, Attrition Rate, Average Salary, Average Age, Satisfaction, Performance)
+
+2.Employees by Department (Bar Chart)
+
+3.Gender Distribution (Donut Chart)
+
+4.Attrition by Department (Bar Chart)
+
+5.Recruitment Source (Donut Chart)
+
+6.Performance by Department (Line Chart)
+
+7.Satisfaction Score Distribution (Column Chart)
+
+8.Employee Age Group Analysis (Column Chart)
+
+9.Key Insights Panel
+
+10.Department, Gender, and Year Slicers
