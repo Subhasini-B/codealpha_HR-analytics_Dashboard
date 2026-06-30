@@ -16,7 +16,7 @@ The Human Resources Analytics Dashboard is an interactive Power BI dashboard tha
 The dataset was created in Microsoft Excel and contains employee information.
 
 
-1. <a href="https://github.com/Subhasini-B/codealpha_HR-analytics_Dashboard/blob/main/HR_data.xlsx">HR Dataset</a>
+ <a href="https://github.com/Subhasini-B/codealpha_HR-analytics_Dashboard/blob/main/HR_data.xlsx">HR Dataset</a>
 
 
 ## Business Questions (KPIs)
