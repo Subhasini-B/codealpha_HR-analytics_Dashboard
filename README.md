@@ -56,6 +56,10 @@ The dataset was created in Microsoft Excel and contains employee information.
 7.Built a professional dashboard with HR insights.
 
 
+## Dashboard Interaction
+
+
+
 ## Dashboard Features
 1.KPI Cards (Employees, Attrition Rate, Average Salary, Average Age, Satisfaction, Performance)
 
