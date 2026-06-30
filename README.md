@@ -60,11 +60,11 @@ The dataset was created in Microsoft Excel and contains employee information.
 <a href="https://github.com/Subhasini-B/codealpha_HR-analytics_Dashboard/blob/main/HR%20dashboard.jpeg">HR Analytics Dashboard </a>
 
 ## Dashboard
+<img width="1254" height="1254" alt="HR dashboard" src="https://github.com/user-attachments/assets/9d78b7cb-7ce6-4db3-96e5-525d255fe2be" />
 
 
 
-
-## Dashboard Features
+## Project Insights
 1.KPI Cards (Employees, Attrition Rate, Average Salary, Average Age, Satisfaction, Performance)
 
 2.Employees by Department (Bar Chart)
@@ -84,3 +84,9 @@ The dataset was created in Microsoft Excel and contains employee information.
 9.Key Insights Panel
 
 10.Department, Gender, and Year Slicers
+
+## Conclusion
+
+The HR Analytics Dashboard converts employee data into actionable insights through interactive visualizations and KPI cards. It helps analyze workforce distribution, attrition, performance, satisfaction, and recruitment trends, enabling informed HR decisions and improving overall workforce management.
+
+
