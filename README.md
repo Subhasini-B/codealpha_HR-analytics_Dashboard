@@ -57,6 +57,10 @@ The dataset was created in Microsoft Excel and contains employee information.
 
 
 ## Dashboard Interaction
+<a href="https://github.com/Subhasini-B/codealpha_HR-analytics_Dashboard/blob/main/HR%20dashboard.jpeg">HR Analytics Dashboard </a>
+
+## Dashboard
+
 
 
 
